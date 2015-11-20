@@ -31,3 +31,9 @@ However this will combine with Yelp data to display among other reviews for the 
  - Display a user profile image + user name + full detail collapsible review + stars. 
 - Show a Buy button in the action bar that takes you to the groupon app.
 - Show a View in yelp button in the action bar that takes you to the yelp website/app.
+
+Wireframe:
+https://www.flinto.com/p/71f52f28
+
+
+
